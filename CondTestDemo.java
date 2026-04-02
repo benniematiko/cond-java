@@ -23,7 +23,7 @@ public class CondTestDemo {
         gpaPoints = 0.0; 
       } 
     } 
+    System.out.printf("Score: %d  |  Grade: %s  |  GPA Points: %.1f%n", score, grade, gpaPoints);
+
   } 
 
-
-  System.out.printf("Score: %d  |  Grade: %s  |  GPA Points: %.1f%n", score, grade, gpaPoints)
